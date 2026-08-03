@@ -1,5 +1,15 @@
 # Changelog
 
+## v66
+
+- reintroduced thread optimizations which should fix lagging VOs
+- updated Chinese traslations
+- VOs for Operation Tight Spot
+
+## v65
+
+- added Chinese traslations
+
 ## v64
 
 ### Changes
