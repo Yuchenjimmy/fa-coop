@@ -3164,3 +3164,6 @@ FAF_Coop_Prothyon_16_M5S3Description="將所有民用卡車運送至量子閘道
 FAF_Coop_Prothyon_16_M6P1Title="離開星球"
 FAF_Coop_Prothyon_16_M6P1Description="使用量子閘道逃離星球。"
 
+-- FAF Coop: Operation Holy Raid
+FAF_Coop_Operation_Holy_Raid_M1P3S1Title="回收UEF黑盒子"
+FAF_Coop_Operation_Holy_Raid_M1P3S1Description="UEF指揮官為保衛太空站而陣亡，請為他的家人回收其遺骸。"
